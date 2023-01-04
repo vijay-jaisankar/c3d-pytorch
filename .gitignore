@@ -1,2 +1,8 @@
 # Don't commit pre-trained weights
 *.pickle
+
+# Sample videos
+*/*.mp4
+
+# Python cache
+__pycache__/
